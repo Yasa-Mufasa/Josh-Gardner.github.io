@@ -20,3 +20,5 @@ The following Projects are things I plan to develop within the near future. I wi
 8. Regression Graph
 9. Twitter Sentiment Analysis
 10. Web Scraper
+
+[About Me](https://yasa-mufasa.github.io/Yasa-Mufasa.github.io-About/)
