@@ -1,5 +1,9 @@
 ## Welcome to my Site
 
+[About Me](https://yasa-mufasa.github.io/Yasa-Mufasa.github.io-About/)
+[Work]()
+[Contact]()
+
 This page is meant to showcase my abilities in coding, analysis, and Data Science.
 
 The following are a sample of my completed projects.
@@ -20,5 +24,3 @@ The following Projects are things I plan to develop within the near future. I wi
 8. Regression Graph
 9. Twitter Sentiment Analysis
 10. Web Scraper
-
-[About Me](https://yasa-mufasa.github.io/Yasa-Mufasa.github.io-About/)
