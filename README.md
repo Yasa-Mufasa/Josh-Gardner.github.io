@@ -2,6 +2,11 @@
 
 This page is meant to showcase my abilities in coding, analysis, and Data Science.
 
+The following are a sample of my completed projects.
+
+1. Predicting Contagious Diseases
+2. Predicting Personal Housing Affordability
+
 The following Projects are things I plan to develop within the near future and will be made available here.
 
 1. Audio Book Recommendation Engine
