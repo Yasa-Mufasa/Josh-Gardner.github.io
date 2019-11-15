@@ -13,7 +13,7 @@ The following are a sample of my completed projects. (more to come in future)
 2. [Predicting Personal Housing Affordability](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Personal%20Housing%20Affordability)
 * ![housing](/images/housing.jpg){:height="250px" width="250px"}
 3. [Clustering Global Terroristic Acts](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Global%20Terrorism)
-* ![terrorism](/images/terrorism.jpg)
+* ![terrorism](/images/terrorism.jpg){:height="250px" width="250px"}
 4. [Predicting Video Game User Ratings](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Video%20Game%20User%20Ratings)
 * ![video-games](/images/video-games.jpg){:height="250px" width="250px"}
 
