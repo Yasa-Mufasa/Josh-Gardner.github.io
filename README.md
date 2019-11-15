@@ -9,6 +9,7 @@ This page is meant to showcase my abilities in coding, analysis, and Data Scienc
 The following are a sample of my completed projects. (more to come in future)
 
 1. [Predicting Contagious Diseases](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Contagious%20Diseases)
+* ![Test](/images/diseases.jpg)
 2. [Predicting Personal Housing Affordability](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Personal%20Housing%20Affordability)
 3. [Clustering Global Terroristic Acts](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Global%20Terrorism)
 4. [Predicting Video Game User Ratings](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Video%20Game%20User%20Ratings)
