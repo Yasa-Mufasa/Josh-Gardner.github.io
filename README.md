@@ -29,5 +29,5 @@ The following Projects are things I plan to develop within the near future. I wi
 
 
 Contact Me:
-[![GetHub](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/github-icon.png)](https://github.com/Yasa-Mufasa)
-[![Email](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/Email-Icon.png)](mailto:yasamufasa@hotmail.com)
+[![GetHub](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/github-icon.png){:height="250px" width="250px"}](https://github.com/Yasa-Mufasa)
+[![Email](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/Email-Icon.png){:height="250px" width="250px"}](mailto:yasamufasa@hotmail.com)
