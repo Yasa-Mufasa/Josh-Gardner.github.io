@@ -11,6 +11,7 @@ The following are a sample of my completed projects. (more to come in future)
 1. [Predicting Contagious Diseases](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Contagious%20Diseases)
 2. [Predicting Personal Housing Affordability](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Personal%20Housing%20Affordability)
 3. [Clustering Global Terroristic Acts](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Global%20Terrorism)
+4. [Predicting Video Game User Ratings]()
 
 
 The following Projects are things I plan to develop within the near future. I will make these projects available here when they are completed.
