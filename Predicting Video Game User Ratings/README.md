@@ -1,6 +1,7 @@
 # Project Name
 
-Predicting Video Game User Ratings
+**Predicting Video Game User Ratings**
+![games](/images/video-games.jpg)
 
 # Programming Language
 

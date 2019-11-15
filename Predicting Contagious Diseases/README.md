@@ -1,6 +1,7 @@
 # Project Name
 
-Predicting Contagious Diseases
+**Predicting Contagious Diseases**
+![diseases](/images/diseases.jpg)
 
 # Programming Language
 

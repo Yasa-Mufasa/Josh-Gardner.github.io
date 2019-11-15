@@ -1,6 +1,7 @@
 # Project Name
 
-Global Terrorism Analysis
+**Global Terrorism Analysis**
+![terrorism](/images/terrorism/png)
 
 # Programming Language
 

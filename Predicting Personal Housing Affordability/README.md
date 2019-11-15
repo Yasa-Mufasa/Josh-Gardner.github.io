@@ -1,6 +1,7 @@
 # Project Name
 
-Predicting Personal Housing Affordability
+**Predicting Personal Housing Affordability**
+![housing](/images/housing.jpg)
 
 # Programming Language
 

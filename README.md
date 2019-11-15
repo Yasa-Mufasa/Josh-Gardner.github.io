@@ -9,11 +9,13 @@ This page is meant to showcase my abilities in coding, analysis, and Data Scienc
 The following are a sample of my completed projects. (more to come in future)
 
 1. [Predicting Contagious Diseases](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Contagious%20Diseases)
-* ![Test](/images/diseases.jpg)
+* ![diseases](/images/diseases.jpg){:height="250px" width="250px"}
 2. [Predicting Personal Housing Affordability](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Personal%20Housing%20Affordability)
+* ![housing](/images/housing.jpg){:height="250px" width="250px"}
 3. [Clustering Global Terroristic Acts](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Global%20Terrorism)
+* ![terrorism](/images/terrorism/jpg){:height="250px" width="250px"}
 4. [Predicting Video Game User Ratings](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/tree/master/Predicting%20Video%20Game%20User%20Ratings)
-
+* ![video-games](/images/video-games.jpg){:height="250px" width="250px"}
 
 The following Projects are things I plan to develop within the near future. I will make these projects available here when they are completed.
 
@@ -30,5 +32,5 @@ The following Projects are things I plan to develop within the near future. I wi
 
 
 Contact Me:
-[![GetHub](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/github-icon.png){:height="250px" width="250px"}](https://github.com/Yasa-Mufasa)
-[![Email](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/Email-Icon.png){:height="250px" width="250px"}](mailto:yasamufasa@hotmail.com)
+[![GetHub](/images/github-icon.png){:height="50px" width="50px"}](https://github.com/Yasa-Mufasa)
+[![Email](/images/Email-Icon.png){:height="50px" width="50px"}](mailto:yasamufasa@hotmail.com)
