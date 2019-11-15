@@ -1,8 +1,6 @@
 ## Welcome to my Site
 
 [About Me](https://yasa-mufasa.github.io/Yasa-Mufasa.github.io-About/)
-[Work]()
-[Contact]()
 
 Hi there! My name is Josh Gardner but I go by Yasa Mufasa when coding online.
 
@@ -27,3 +25,8 @@ The following Projects are things I plan to develop within the near future. I wi
 8. Regression Graph
 9. Twitter Sentiment Analysis
 10. Web Scraper
+
+
+Contact Me:
+[![GitHub](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/github%20icon.png)](https://github.com/Yasa-Mufasa)
+[![Email](https://github.com/Yasa-Mufasa/Josh-Gardner.github.io/blob/master/images/Email-Icon.png)](mailto:yasamufasa@hotmail.com)
