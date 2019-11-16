@@ -1,6 +1,6 @@
 ## Welcome to my Site
 
-[About Me](https://yasa-mufasa.github.io/Yasa-Mufasa.github.io-About/)
+[About Me](https://yasa-mufasa.github.io/About/)
 
 Hi there! My name is Josh Gardner but I go by Yasa Mufasa when coding online.
 
